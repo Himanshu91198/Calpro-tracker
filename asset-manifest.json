@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calpro-tracker/static/css/main.8029f4cd.css",
+    "main.js": "/Calpro-tracker/static/js/main.5cf18c08.js",
+    "static/media/diet.jpeg": "/Calpro-tracker/static/media/diet.b188fcf76ab2d476186e.jpeg",
+    "index.html": "/Calpro-tracker/index.html",
+    "main.8029f4cd.css.map": "/Calpro-tracker/static/css/main.8029f4cd.css.map",
+    "main.5cf18c08.js.map": "/Calpro-tracker/static/js/main.5cf18c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8029f4cd.css",
+    "static/js/main.5cf18c08.js"
+  ]
+}
